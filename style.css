@@ -68,6 +68,10 @@
 			margin: 8px 0px 0px 10px;
 		}
 
+                .createdList:hover{
+			animation: changeColorBtn 15s infinite linear;
+		}
+
 		/* remove button */
 		.rmovBtn {
 			color: black;
