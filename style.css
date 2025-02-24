@@ -240,3 +240,48 @@
 				caret-color: #2F49CDDE;
 			}
 		}
+@keyframes changeColorBtn2 {
+			0% {
+				background: #C13030D9;
+			}
+
+			10% {
+				background: #CF30C9DE;
+			}
+
+			20% {
+				background: #C82784DE;
+			}
+
+			30% {
+				background: #C72929DE;
+			}
+
+			40% {
+				background: #C85925DE;
+			}
+
+			50% {
+				background: #CDAD24DE;
+			}
+
+			60% {
+				background: #9AC825DE;
+			}
+
+			70% {
+				background: #29C875DE;
+			}
+
+			80% {
+				background: #36CBAADE;
+			}
+
+			90% {
+				background: #37A4DADE;
+			}
+
+			100% {
+				background: #FBFBFB4D;
+			}
+				}
