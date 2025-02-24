@@ -69,7 +69,7 @@
 		}
 
                 .createdList:hover{
-			animation: changeColorBtn 15s infinite linear;
+			animation: changeColorBtn 3.5s 1 linear forwards;
 		}
 
 		/* remove button */
